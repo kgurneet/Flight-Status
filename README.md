@@ -1,16 +1,5 @@
-# React + Vite
+A specialized flight tracking application designed to serve remote First Nations communities across Northern Manitoba, Canada.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Flight-Status provides real-time flight information for essential air services connecting remote Northern Manitoba communities. These vital routes link isolated First Nations with major hubs like Winnipeg, Thompson, and Churchill, providing access to healthcare, education, family, and essential resources.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Featured Airlines Calm Air - Primary carrier for Churchill and Island Lake routes Perimeter Aviation - Serving multiple remote communities Keewatin Air - Regional flights throughout Northern Manitoba Missinippi Airways - Connecting The Pas and northwestern communities Fast Air - Charter and scheduled services Wasaya Airways - First Nations-owned airline serving remote areas
